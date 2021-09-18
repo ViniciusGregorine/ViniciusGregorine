@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+<div align="center">
+  
+![Status](https://github-readme-stats.vercel.app/api?username=ViniciusGregorine&show_icons=true&theme=radical)
+![Status](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusGregorine&show_icons=true&theme=radical)
+  
+</div>
 
 <!--
 **ViniciusGregorine/ViniciusGregorine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
