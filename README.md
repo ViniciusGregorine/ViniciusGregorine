@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<!-- ![Status](https://github-readme-stats.vercel.app/api?username=ViniciusGregorine&show_icons=true&theme=radical) -->
+![Status](https://github-readme-stats.vercel.app/api?username=ViniciusGregorine&show_icons=true&theme=radical)
 ![Status](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusGregorine&show_icons=true&theme=radical)
   
 </div>
